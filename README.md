@@ -9,7 +9,7 @@ The fine-tuned model is used as part of a movie recommendation chatbot system.
 ## 🔗 Model on Hugging Face
 
 You can try or download the fine-tuned model here:  
-👉 [https://huggingface.co/koreankiwi99/llama-sft-story](https://huggingface.co/koreankiwi99/llama-sft-story)
+👉 [https://huggingface.co/kiwi1229/llama3.1-8b-moviebot-lora](https://huggingface.co/kiwi1229/llama3.1-8b-moviebot-lora)
 
 ---
 
