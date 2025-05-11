@@ -43,6 +43,9 @@ pip install -r requirements.txt
 
 ---
 
-## 📎 GitHub Repo
+---
 
-👉 [https://github.com/koreankiwi99/llama-sft-story](https://github.com/koreankiwi99/llama-sft-story)
+## 🙏 Credits
+
+This project was developed by [Kyuhee Kim](https://github.com/koreankiwi99) as part of the **STORY** project under the [EPFL AI Team](https://github.com/EPFL-AI-Team).
+The model training code builds on open-source LLaMA implementations and open research on supervised fine-tuning of large language models.
