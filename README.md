@@ -1,4 +1,4 @@
-# 🦙 LLaMA-SFT-Story
+# 🦙 STORY-llama-finetune
 
 This repository contains a minimal codebase for supervised fine-tuning (SFT) of a LLaMA model on movie-related data.
 
